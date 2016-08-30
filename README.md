@@ -10,3 +10,9 @@ There are three ways to compare string in java:
 By equals() method
 By = = operator
 By compareTo() method
+
+A part of string is called substring. In other words, substring is a subset of another string. In case of substring startIndex is inclusive and endIndex is exclusive.
+In case of string:
+
+startIndex: inclusive
+endIndex: exclusive
