@@ -6,4 +6,7 @@ In java, string objects are immutable. Immutable simply means unmodifiable or un
 
 Once string object is created its data or state can't be changed but a new string object is created.
 
-
+There are three ways to compare string in java:
+By equals() method
+By = = operator
+By compareTo() method
